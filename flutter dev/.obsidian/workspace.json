@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "6666dbedc41832d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b87a5a0245053ebe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535bf795dda902dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working with Media (Images, Videos, and Audio).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Working with Media (Images, Videos, and Audio)"
+            }
+          },
+          {
+            "id": "a74fce05c008165c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State Management in Flutter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State Management in Flutter"
+            }
+          },
+          {
+            "id": "ed61aab3bbfef288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutter Advanced Animations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flutter Advanced Animations"
+            }
+          },
+          {
+            "id": "3d1e4b62c89b0d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lamma 3.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lamma 3.2"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e81e708e5d3be1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0596d4cbba7a802b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1070a8bf171c3bc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "236df42dd77aa2bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a9358e7aee83659",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65ddce9d2333f998",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a26bb9965d20eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0dccd5d4601d41f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lamma 3.2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lamma 3.2"
+            }
+          },
+          {
+            "id": "b860ab6cc4dd5cf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lamma 3.2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lamma 3.2"
+            }
+          },
+          {
+            "id": "1d1b0e12bcfa29fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "006d9b10861bbec4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lamma 3.2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lamma 3.2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "3d1e4b62c89b0d92",
+  "lastOpenFiles": [
+    "chatgpt.md",
+    "Dart Programming Basics (Data Types, Functions, Classes, Null Safety).md",
+    "Roadmap.md",
+    "BLoC (Business Logic Component).md",
+    "Animations in Flutter.md",
+    "GetX.md",
+    "Flutter Advanced Animations.md",
+    "advanced animations.md",
+    "Navigation & Routing.md",
+    "Real life Analogy more Detailed.md",
+    "State Management in Flutter.md",
+    "Working with Media (Images, Videos, and Audio).md",
+    "Flutter Widget Lifecycle & Tree Structure - In Depth Explanation.md",
+    "lamma 3.2.md",
+    "Background Services & Push Notifications.md",
+    "Device Features & Permissions.md",
+    "Networking & API Integration.md",
+    "Handling User Inputs & Forms.md",
+    "Flutter Widget in Great details.md",
+    "Flutter Arguments - A Deep Dive 🚀.md",
+    "Flutter Arguments and Widgets.md",
+    "Riverpod.md",
+    "Welcome.md",
+    "MobX.md",
+    "[this.md",
+    "assets/Pasted image 20250212105548.png",
+    "assets",
+    "Pasted image 20250212104547.png",
+    "newnote.md"
+  ]
+}
